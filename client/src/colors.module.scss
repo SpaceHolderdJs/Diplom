@@ -1,0 +1,13 @@
+$green: linear-gradient(45deg, #3d4c41, #2d2c41);
+$grey-dark: #999999;
+$grey-light: #e6e6e6;
+$navy: #2d2c41;
+$headerBg: linear-gradient(180deg, #2d2c41, #3d4c41);
+
+:export {
+  green: $green;
+  greyDark: $grey-dark;
+  greyLight: $grey-light;
+  navy: $navy;
+  headerBg: $headerBg;
+}
